@@ -1,0 +1,23 @@
+{
+  "name": "jsa_2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StalsXL/jsa_2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StalsXL/jsa_2/issues"
+  },
+  "homepage": "https://github.com/StalsXL/jsa_2#readme",
+  "dependencies": {
+    "eslint": "^8.56.0",
+    "prettier": "^3.2.4"
+  }
+}
